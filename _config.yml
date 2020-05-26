@@ -1,11 +1,11 @@
 # Site settings
 author: Joe Sanders
-title: 
+title: 10 Kinds of People
 header-img: img/home-bg.png
 email: josephericsanders@gmail.com
 copyright_name: Joe Sanders
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data is like people – interrogate it hard enough and it will tell you
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  joesanders10
